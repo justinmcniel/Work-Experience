@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1549482172 source:c:\users\bubba\onedrive\coding\c++\multithreading\multithreading.cpp
+	"MultiThreading.h"
+	<iostream>
+	<thread>
+	<windows.h>
+
+1549485010 c:\users\bubba\onedrive\coding\c++\multithreading\multithreading.h
+	<thread>
+	<windows.h>
+
+1591675758 source:c:\users\bubba\onedrive\coding\rendering\learning\julia\calculatejuliarender\main.cpp
+	<iostream>
+	<math.h>
+	<quadmath.h>
+	<stdio.h>
+	<fcntl.h>
+	<io.h>
+	<string>
+	<fstream>
+	"MultiThreading.h"
+
